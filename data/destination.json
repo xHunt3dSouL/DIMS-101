@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Swayambhunath Stupa",
+    "category": "Religious",
+    "description": "Swayambhunath, also known as the Monkey Temple, is a UNESCO World Heritage Site that offers a panoramic view of Kathmandu valley."
+  },
+  {
+    "name": "Boudhanath Stupa",
+    "category": "Religious",
+    "description": "Boudhanath Stupa is one of the largest stupas in Nepal and an important religious site for Buddhists."
+  },
+  {
+    "name": "Kathmandu Durbar Square",
+    "category": "Historical",
+    "description": "Kathmandu Durbar Square is a historic palace complex with ancient temples, courtyards, and the Kumari Ghar, the residence of the living goddess."
+  },
+  {
+    "name": "Pashupatinath Temple",
+    "category": "Religious",
+    "description": "Pashupatinath Temple is one of the holiest Hindu temples in the world, dedicated to Lord Shiva. It is located on the banks of the Bagmati River."
+  },
+  {
+    "name": "Thamel",
+    "category": "Tourist Area",
+    "description": "Thamel is a popular tourist district in Kathmandu known for its vibrant streets, shops, restaurants, and nightlife."
+  },
+  {
+    "name": "Garden of Dreams",
+    "category": "Park",
+    "description": "The Garden of Dreams is a neo-classical garden in the heart of Kathmandu, offering a peaceful escape from the city hustle and bustle."
+  },
+  {
+    "name": "Bhaktapur Durbar Square",
+    "category": "Historical",
+    "description": "Bhaktapur Durbar Square is a UNESCO World Heritage Site with well-preserved ancient architecture and a rich cultural heritage."
+  },
+  {
+    "name": "Hanuman Dhoka",
+    "category": "Historical",
+    "description": "Hanuman Dhoka Durbar Square is another historic palace complex with artistic temples and statues."
+  },
+  {
+    "name": "Nagarkot",
+    "category": "Scenic Viewpoint",
+    "description": "Nagarkot is a hill station near Kathmandu known for its stunning sunrise and sunset views of the Himalayas."
+  },
+  {
+    "name": "Kopan Monastery",
+    "category": "Religious",
+    "description": "Kopan Monastery is a Tibetan Buddhist monastery located on the outskirts of Kathmandu, offering meditation and retreats."
+  }
+]
