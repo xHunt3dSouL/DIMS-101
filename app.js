@@ -14,11 +14,23 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Define routes
+
+// Routes for managing destinations
 app.use("/api/destinations", destinationRoutes);
+
+// Routes for managing categories
 app.use("/api", categoryRoutes);
+
+// Authentication routes
 app.use("/api/auth", authRoutes);
+
+// User-related routes
 app.use("/api/user", userRoutes);
+
+// Home routes
 app.use(homeRoutes);
+
+// Error handling routes
 app.use(errorRoutes);
 
 // Database synchronization (create or update tables)

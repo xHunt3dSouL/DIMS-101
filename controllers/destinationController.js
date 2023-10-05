@@ -39,6 +39,7 @@ const getAllDestinations = async (req, res) => {
         "createdAt",
         "updatedAt",
       ],
+      limit: 10,
     });
     res.json(destinations);
   } catch (err) {
